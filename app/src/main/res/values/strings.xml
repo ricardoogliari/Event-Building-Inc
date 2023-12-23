@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Event Building</string>
+    <string name="title_activity_food">FoodActivity</string>
+    <string name="title_activity_drinks">DrinksActivity</string>
+    <string name="title_activity_decorations">DecorationsActivity</string>
+    <string name="title_activity_staff">StaffActivity</string>
+</resources>
